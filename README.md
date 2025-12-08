@@ -72,7 +72,6 @@ terraform plan
 
 terraform apply --auto-approve
 
-![Architecture](images/Screenshot%20(138).png)
 
 ![Architecture](images/Screenshot%20(139).png)
 
@@ -117,6 +116,8 @@ Open in browser:
 http://<alb-dns>
 
 You should see your website live
+
+![Architecture](images/Screenshot%20(138).png)
 
 # Conclusion
 
